@@ -42,4 +42,9 @@ public class Comanda {
 		this.número = número;
 	}
 
+	public void afegirComandes() {
+		// TODO - implement Comanda.afegirComandes
+		throw new UnsupportedOperationException();
+	}
+
 }

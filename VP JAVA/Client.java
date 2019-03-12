@@ -32,4 +32,9 @@ public class Client {
 		this.email = email;
 	}
 
+	public Client obtenir() {
+		// TODO - implement Client.obtenir
+		throw new UnsupportedOperationException();
+	}
+
 }

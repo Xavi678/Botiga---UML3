@@ -43,4 +43,9 @@ public class Compte {
 		this.adreçaFacturacio = adreçaFacturacio;
 	}
 
+	public Compte[] obtenir() {
+		// TODO - implement Compte.obtenir
+		throw new UnsupportedOperationException();
+	}
+
 }

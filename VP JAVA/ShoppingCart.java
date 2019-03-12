@@ -15,4 +15,9 @@ public class ShoppingCart {
 		this.ID = ID;
 	}
 
+	public double operation() {
+		// TODO - implement ShoppingCart.operation
+		throw new UnsupportedOperationException();
+	}
+
 }

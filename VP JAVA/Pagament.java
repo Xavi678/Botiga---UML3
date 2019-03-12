@@ -38,4 +38,9 @@ public class Pagament {
 		this.Observacions = Observacions;
 	}
 
+	public long[] obtenirPagaments() {
+		// TODO - implement Pagament.obtenirPagaments
+		throw new UnsupportedOperationException();
+	}
+
 }
